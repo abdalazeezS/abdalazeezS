@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working as a Frontend Developer
+🔭 Frontend Developer with 2+ years of experience
+💼 Soft Skills Trianer
 
 
 ## 🌐 Socials:
