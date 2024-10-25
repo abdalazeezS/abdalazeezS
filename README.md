@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Frontend Developer with 2+ years of experience
+🔭 Frontend Developer with 2+ years of experience <br>
 💼 Soft Skills Trianer
 
 
