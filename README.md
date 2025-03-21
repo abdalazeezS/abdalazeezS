@@ -1,6 +1,6 @@
 # 💫 About Me:
 👨‍💻 Frontend Developer<br>
-💼 Soft Skills Trianer
+💼 Soft Skills Trianer<br>
 📝 LinkedIn Tech Content Creator
 
 ## 🌐 Socials:
