@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 👨‍💻 Frontend Developer<br>
 💼 Soft Skills Trianer<br>
 
